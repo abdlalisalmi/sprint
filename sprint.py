@@ -21,8 +21,8 @@ def sprint(string="[+] This is a test!!", tm=5, color="normal"):
         sys.stdout.flush()
         time.sleep(tm / 100)
 
-sprint("Print Red Text", 5, "red")
-sprint("Print Green Text", 5, "green")
-sprint("Print Blue Text", 5, "blue")
-sprint("Print Yellow Text", 5, "yellow")
-sprint("Print Orange Text", 5, "orange")
+sprint("1337 future is loading...", 3, "red")
+sprint("1337 future is loading...", 3, "green")
+sprint("1337 future is loading...", 3, "blue")
+sprint("1337 future is loading...", 3, "yellow")
+sprint("1337 future is loading...", 3, "orange")
